@@ -12,6 +12,7 @@
 
 ---
 <img align="right" width=250px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 ### 🌱 Sobre mí
 
 Soy **desarrolladora en formación** con foco en **Frontend-JavaScript** y experiencia en **Diseño UX/UI**.  
