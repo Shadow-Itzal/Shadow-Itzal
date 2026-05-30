@@ -74,11 +74,17 @@ Además, me he formado en habilidades blandas que me permiten trabajar de forma 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Estadísticas de GitHub
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shadow-Itzal&show_icons=true&theme=tokyonight" alt="stats"/>
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow-Itzal&theme=tokyonight" alt="streak"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Itzal&layout=compact&theme=tokyonight" alt="langs"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shadow-Itzal&show_icons=true&theme=tokyonight" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=Shadow-Itzal&theme=tokyonight" />
+
+  <br/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shadow-Itzal&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
